@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./staripiscihrvat04umjegoog_0010.png"; bbox 0 0 3367 5234; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 708 1192 2562 3350">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 708 1192 2562 3350">
+     <span class='ocr_line' id='line_1_1' title="bbox 708 1192 2562 3350; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 708 1192 2562 3350; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 937 3672 2355 3844">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 937 3672 2355 3844">
+     <span class='ocr_line' id='line_1_2' title="bbox 1111 3672 2173 3738; baseline 0 -1"><span class='ocrx_word' id='word_1_2' title='bbox 1111 3673 1643 3738; x_wconf 77' lang='lat' dir='ltr'>DOMINICUS</span> <span class='ocrx_word' id='word_1_3' title='bbox 1705 3672 2173 3737; x_wconf 71' lang='lat' dir='ltr'>ARANEUS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 937 3777 2355 3844; baseline -0.001 -3"><span class='ocrx_word' id='word_1_4' title='bbox 937 3779 1204 3842; x_wconf 90' lang='lat' dir='ltr'>ANNO</span> <span class='ocrx_word' id='word_1_5' title='bbox 1266 3780 1682 3844; x_wconf 79' lang='lat' dir='ltr'>AETATIS</span> <span class='ocrx_word' id='word_1_6' title='bbox 1736 3778 1991 3842; x_wconf 86' lang='lat' dir='ltr'>SUAE</span> <span class='ocrx_word' id='word_1_7' title='bbox 2038 3777 2355 3840; x_wconf 81' lang='lat' dir='ltr'>XXVII.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 457 4745 1175 4797">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 457 4745 1175 4797">
+     <span class='ocr_line' id='line_1_4' title="bbox 457 4745 1175 4797; baseline 0 -11"><span class='ocrx_word' id='word_1_8' title='bbox 457 4745 684 4786; x_wconf 56' lang='lat' dir='ltr'><strong>ffinuikkn</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 707 4745 876 4785; x_wconf 69' lang='lat' dir='ltr'><strong>tinum</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 901 4756 931 4786; x_wconf 77' lang='lat' dir='ltr'>u</span> <span class='ocrx_word' id='word_1_11' title='bbox 960 4746 1175 4797; x_wconf 77' lang='lat' dir='ltr'><strong>Zagrobu.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 4 3258 59 4958">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 4 3258 59 4958">
+     <span class='ocr_line' id='line_1_5' title="bbox 4 3258 59 4958; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 4 3258 59 4958; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
